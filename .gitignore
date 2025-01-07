@@ -1,32 +1,12 @@
-# Prerequisites
-*.d
+# Add files/folders to ignore
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+[Bb]in/
+[Oo]bj/
+![Bb]in/Designs/*
+.vs
+*.suo
+*.user
 
-# Precompiled Headers
-*.gch
-*.pch
+Design/Text_logo-xd.psd
 
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
+Xamimg/packages/

@@ -1,0 +1,27 @@
+[
+  {
+    "Id": "d5f32501-b091-446f-977e-4ed3d0cc2a46",
+    "Name": "Bekmurd",
+    "MB": 5,
+    "AuthorName": "Test",
+    "Description": "qizizq",
+    "QuentityLikes": 5
+  },
+  {
+    "Id": "bcf7a0a0-5730-4759-a0ae-19b7ae3c3d65",
+    "Name": "alisher",
+    "MB": 3,
+    "AuthorName": "Test1",
+    "Description": "chotki",
+    "QuentityLikes": 6
+  },
+  {
+    "Id": "843f93d6-6081-43cc-8039-36c8653ed114",
+    "Name": "qudratbek",
+    "MB": 9,
+    "AuthorName": "Test",
+    "Description": "yaxshi",
+    "QuentityLikes": 3
+  }
+
+]
